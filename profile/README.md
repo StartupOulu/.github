@@ -2,7 +2,7 @@
 
 - [startupoulu.com](https://www.startupoulu.com)
 - [StartupOulu @ Instagram](https://instagram.com/startupoulu)
-- [StartupOulu @ Linked](https://www.linkedin.com/company/startupoulu/)
+- [StartupOulu @ LinkedIn](https://www.linkedin.com/company/startupoulu/)
 
 ## StartupOulu website
 
